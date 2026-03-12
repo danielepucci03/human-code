@@ -19,3 +19,8 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     - trovo la pizzeria
     - cerco il listino delle pizze
     - guardo le pizze FINCHÈ non trovo la solita pizza (funghi e prosciutto)
+
+- Chiamare la pizzeria
+    - compongo il numero della pizzeria
+    - aspetto che rispondino
+    - ordino la pizza che ho scelto
