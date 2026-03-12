@@ -13,3 +13,9 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     - Mi dirigo verso il divano
     - Mi siedo sul divano
 
+- Scelgo cosa mangiare
+    - accendo il cellulare
+    - cerco l'applicazione dove scegliere la pizzeria da chiamare
+    - trovo la pizzeria
+    - cerco il listino delle pizze
+    - guardo le pizze FINCHÈ non trovo la solita pizza (funghi e prosciutto)
