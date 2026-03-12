@@ -24,3 +24,9 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     - compongo il numero della pizzeria
     - aspetto che rispondino
     - ordino la pizza che ho scelto
+
+- Mangio la pizza
+    - arriva la pizza fumante
+    - mi chiedo se riuscirò a mangiarla tutta
+    - mi ricordo che FINCHÈ riesco a mangiarla lo faccio
+    - SE invece non la finisco devo metterla in frigo
